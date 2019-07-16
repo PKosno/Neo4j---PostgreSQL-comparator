@@ -11,7 +11,7 @@ public class Movie {
     @GeneratedValue
     private Long id;
     private String title;
-    @Relationship(type = "Directors", direction = Relationship.INCOMING)
+    @Relationship(type = "directors", direction = Relationship.INCOMING)
     private List<Directors> directors;
     @Relationship(type = "language", direction = Relationship.INCOMING)
     private Languages language;

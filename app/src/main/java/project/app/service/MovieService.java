@@ -13,7 +13,7 @@ public class MovieService {
 
     @Autowired
     MovieRepository repository;
-    public Collection<Movie> getAll() {
-        return repository.getAllUsers();
-    }
+  //  public Collection<Movie> getAll() {
+      //  return repository.getAllUsers();
+  //  }
 }

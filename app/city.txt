@@ -18,4 +18,33 @@ Radom
 Kielce
 Bruksela
 San Francisco
-
+Tokio
+Szanghaj
+Stambul
+Manila
+Dhaka
+Delhi
+Karaczi
+Pekin
+Lagos
+Seul
+Tokio
+Lima
+Signapur
+Santiago
+Ankara
+Toronto
+Izmir
+Pusan
+Dakar
+Benin
+Brasilia
+Salvador
+Kijow
+Kabul
+Nairobi
+Pune
+Kalkuta
+Sao Paulo
+Mumbaj
+Lizbona
